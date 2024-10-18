@@ -1,0 +1,6 @@
+# Ignore notebooks for testing and txt files
+*.ipynb
+*.txt
+
+# Ignore .csv used for local data records
+*.csv
